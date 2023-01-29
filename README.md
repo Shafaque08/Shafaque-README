@@ -5,23 +5,6 @@
 ###### Glad to see you here :heart:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shafaque akhtar"/> </p>
-
-<!-- 
-</a>
-<a href="https://www.linkedin.com/in/shafaque-akhtar-95992b230/">
-  <kbd>
-  <img align="centre" alt="shafaque's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>  
-<a href="https://twitter.com/Anjali__1234">
-<kbd>
-<img align="centre" alt="shafaque's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
-</a>
-
-<!-- <a href="mailto:shafak27@outlook.com"> -->
-  <!-- <kbd> -->
-  <!-- <img align="centre" alt="shafaque's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" /> -->
-<!-- </a> --> 
-
 <br/>
 <br/>
 

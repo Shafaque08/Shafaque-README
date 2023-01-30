@@ -19,7 +19,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shafaque-akhtar-95992b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prantikmukherjee" height="30" width="40" /></a>
-<a href="https://twitter.com/Anjali__1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="champmaniiac" height="30" width="40" /></a>
+<a href="https://twitter.com/Anjali__1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shafaque Akhtar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100070296694661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shafaque akhtar" height="30" width="40" /></a>
 <a href="mailto:shafak27@outlook.com">
   <kbd>
@@ -39,7 +39,7 @@
 <code><img height="30" src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png/"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code>
 <code><img height="30" src="https://images.velog.io/images/hdy20201004/post/46931f18-0eb4-468b-a61d-b740c04e4210/git_logo.png"></code>

@@ -43,8 +43,8 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code>
 <code><img height="30" src="https://images.velog.io/images/hdy20201004/post/46931f18-0eb4-468b-a61d-b740c04e4210/git_logo.png"></code>
-<code><img height="30" src="https://images.velog.io/images/hdy20201004/post/46931f18-0eb4-468b-a61d-b740c04e4210/git_logo.png"></code>"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>
 
 [twitter]: https://twitter.com/Anjali__1234
 [instagram]: https://www.instagram.com/shafaque__121/

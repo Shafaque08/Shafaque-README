@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shafaque akhtar"/> </p>
 <br/>
-<br/>
-
 - 🏫 B-Tech. student at Kiit University
 - 💻 Currently Learning Golang
 - 🙋‍ More about me: Visit my [LinkedIn](https://www.linkedin.com/in/shafaque-akhtar-95992b230/)
